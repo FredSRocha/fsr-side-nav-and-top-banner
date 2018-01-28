@@ -10,6 +10,8 @@
 
 **VIEW:** [GitHub Pages](https://fredsrocha.github.io/fsr-side-nav/)
 
+**ARTICLE:** [Side Nav and Top Banner Responsive](https://codepen.io/fredsrocha/post/side-nav-and-top-banner)
+
 **CODEPEN:** [Side Nav and Top Banner Responsive](http://codepen.io/fredsrocha/pen/dWzBKg)
 
 <table>

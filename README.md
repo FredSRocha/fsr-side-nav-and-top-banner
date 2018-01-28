@@ -8,7 +8,7 @@
 
 :gift: Side Nav and Top Banner Responsive. [FSR Components](https://github.com/fredsrocha/fsr-components "FSR Components")
 
-**VIEW:** [GitHub Pages](https://fredsrocha.github.io/fsr-side-nav/)
+**VIEW:** [GitHub Pages](https://fredsrocha.github.io/fsr-side-nav-and-top-banner/)
 
 **ARTICLE:** [Side Nav and Top Banner Responsive](https://codepen.io/fredsrocha/post/side-nav-and-top-banner-responsive)
 
